@@ -29,7 +29,7 @@ import java.util.Map;
  * Date: 6/26/19 1:30 AM <br/>
  */
 
-public class JwtTokenProvider2 {
+public class JwtTokenProvider {
 
    // typically from properties file
     private String secretKey = "secret-key";
